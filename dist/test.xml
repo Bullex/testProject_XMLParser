@@ -1,0 +1,13 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+<list>
+    <a href="#elt1">Element 1</a>
+    <a href="#elt2">Element 2</a>
+    <a href="#elt3">Element 3</a>
+    <a href="#elt4">Element 4</a>
+    <a href="#elt5">Element 5</a>
+    <elements>
+        <element id="elt1">Moscow</element>
+        <element id="elt2">New-York</element>
+        <element id="elt3">Los-Angeles</element>
+    </elements>
+</list>
